@@ -1,5 +1,4 @@
 ## Hi there 👋
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6717b043791f57dd608e6261?variant=light&roadmaps=full-stack%2Cfrontend" alt="roadmap.sh"/></a>
 <!--
 **NTSang171204/NTSang171204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
